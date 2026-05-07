@@ -14,7 +14,7 @@ This project focuses on the implementation and manipulation of linked lists, a f
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/LinkedLists.git
+    git clone https://github.com/Nadepu2023/LinkedLists.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -35,4 +35,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For questions or feedback, please reach out to [niharikaadepu461@gmail.com].
